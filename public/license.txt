@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Shirt (without textures)
+* source:	https://sketchfab.com/3d-models/simple-shirt-without-textures-8514bfd4cce64965aca395c7558f5628
+* author:	SmartPlan (https://sketchfab.com/SmartPlan)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Shirt (without textures)" (https://sketchfab.com/3d-models/simple-shirt-without-textures-8514bfd4cce64965aca395c7558f5628) by SmartPlan (https://sketchfab.com/SmartPlan) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
